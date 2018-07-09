@@ -1,9 +1,13 @@
+
 ###########################################################################
 ###  Install packages 
 ###########################################################################
 ### Packages from CRAN
 install.packages("assertthat")
+install.packages("svglite")
+
 install.packages("tidyverse")
+install.packages("colorspace", repos="http://R-Forge.R-project.org") # install the latest version 1.4.0
 install.packages("colorblindr")
 
 install.packages("stringr")
@@ -11,7 +15,6 @@ install.packages("ggridges")
 install.packages("ggthemes")
 install.packages("riverplot")
 install.packages("tspmeta")
-install.packages("svglite")
 
 
 ### Packages from GitHub
@@ -22,9 +25,5 @@ install_github("jalvesaq/colorout")
 install_github("jstagge/staggefuncs")
 install.packages("rmarkdown")
 
-#####################################
-install.packages("tidyverse")
-install.packages("rmarkdown")
-install.packages("httr")
-install.packages("shinydashboard")
-install.packages('leaflet')
+
+
