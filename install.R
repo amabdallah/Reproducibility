@@ -21,3 +21,10 @@ require(devtools)
 install_github("jalvesaq/colorout")
 install_github("jstagge/staggefuncs")
 install.packages("rmarkdown")
+
+#####################################
+install.packages("tidyverse")
+install.packages("rmarkdown")
+install.packages("httr")
+install.packages("shinydashboard")
+install.packages('leaflet')
