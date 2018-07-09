@@ -1,0 +1,24 @@
+"","ID","x","y","labels","col"
+"Q0_1","Q0_1",1,1,"All Papers","grey"
+"Q5_1","Q5_1",2,0,"No availability","#EE6677"
+"Q5_2","Q5_2",2,1,"Dataless or review","#CCBB44"
+"Q5_3","Q5_3",2,2,"Some or all available","#4477AA"
+"Q6_1","Q6_1",3,4,"Some or All
+Available Online","#4477AA"
+"Q6_2","Q6_2",3,3,"Only In
+Article","#4477AA"
+"Q6_3","Q6_3",3,2,"Author
+Request","#EE6677"
+"Q6_4","Q6_4",3,1,"Third
+Party","#EE6677"
+"Q6_5","Q6_5",3,0,"None","#EE6677"
+"Q7_0","Q7_0",4,0.5,"None","#EE6677"
+"Q7_1","Q7_1",4,1.5,"1 Element","#CCBB44"
+"Q7_2","Q7_2",4,2.5,"2 Elements","#CCBB44"
+"Q7_3","Q7_3",4,4,"Directions
+Code
+& Data","#4477AA"
+"Q9_1","Q9_1",5,4,"Yes","#4477AA"
+"Q9_2","Q9_2",5,3.5,"Unfamiliar Methods","#CCBB44"
+"Q9_3","Q9_3",5,3,"Not Sure","#CCBB44"
+"Q9_4","Q9_4",5,0.5,"No","#EE6677"
